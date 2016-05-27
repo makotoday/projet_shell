@@ -1,0 +1,3 @@
+pour compliler le projet il faut taper : 
+
+gcc -o shell.exe shell_final.c commande.c find.c -Wall
